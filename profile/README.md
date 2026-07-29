@@ -32,7 +32,7 @@ Para este projeto, adotamos a **Clean Architecture (Arquitetura Limpa)** e o **S
 
 O projeto é desenvolvido por uma equipe focada em excelência técnica e boas práticas:
 
-*   **Matheus Lucindo dos Santos** — Líder Técnico & Análise de Sistemas
+*   **Matheus Lucindo dos Santos** — Tech Lead & Developer
 *   **Wesley** — Developer
 *   **João Guilherme** — Developer
 *   **Marcos Vinicius Morais** — Developer
